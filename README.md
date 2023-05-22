@@ -1,2 +1,2 @@
-# ai_musings
-AI, ML, Deep Learning Musings
+# Deep Quadric Learning
+##A tale in 4 episode
