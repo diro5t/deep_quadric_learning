@@ -1,2 +1,2 @@
 # Deep Quadric Learning
-## A tale in 4 episode
+## A tale in 4 episodes
