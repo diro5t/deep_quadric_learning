@@ -24,3 +24,5 @@ While attempting to directly reduce net model size itself, quadric learning at t
 In 3 episodes this project will try to introduce the concept of quadric learning from the motivation (1) the single quadric neuron (2) to quadric layers and their application in a little hybrid model (3).
 
 The proof of concept implementation in PyTorch does in no way affect the applicability of Deep Quadric Learning to other frameworks like Tensor Flow etc.
+
+**In the future you might find more application examples of deep quadric learning in this repo with PyTorch and tinygrad**
