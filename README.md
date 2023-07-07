@@ -1,4 +1,4 @@
-# Deep Quadric Learning - A tale in 4 episodes
+# Deep Quadric Learning - A tale in 3 episodes
 
 What is quadric learning?
 If digital technological evolution taught us one thing then it's this: Moore's 1st law will not always be on our side, his 2nd law never was.
@@ -21,6 +21,6 @@ https://www.researchgate.net/publication/221582251_Using_Quadratic_Perceptrons_t
 
 While attempting to directly reduce net model size itself, quadric learning at the same time still allows for various subsequent methods like hyper parameter optimization, model distillation, sparse activation, evolutionary architecture search etc. etc.
 
-In 4 episodes this project will try to introduce the concept of quadric learning from the motivation (1) the single quadric neuron (2) to quadric layers (3) and lastly hybrid and purely quadric models (4).
+In 3 episodes this project will try to introduce the concept of quadric learning from the motivation (1) the single quadric neuron (2) to quadric layers and their application in a little hybrid model (3).
 
 The proof of concept implementation in PyTorch does in no way affect the applicability of Deep Quadric Learning to other frameworks like Tensor Flow etc.
