@@ -25,4 +25,4 @@ In 3 episodes this project will try to introduce the concept of quadric learning
 
 The proof of concept implementation in PyTorch does in no way affect the applicability of Deep Quadric Learning to other frameworks.
 
-**In fact you soon might find more application examples of deep quadric learning in this repo with PyTorch and tinygrad**
+**In fact you soon might find more application examples of deep quadric learning in this repo with PyTorch, Keras 3.0 and tinygrad**
